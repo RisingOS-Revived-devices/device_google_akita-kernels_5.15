@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12919773"
+    target: "akita_16k"
+    source_file: "init.insmod.akita.cfg"
+  }
+  dest_file: "25Q1-12919773/16kb/init.insmod.akita.cfg"
+  version: "12919773"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/akita-kernels/6.1"
+}
